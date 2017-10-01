@@ -1,0 +1,45 @@
+.body {
+}
+
+.circle {
+	z-index: 2;
+}
+
+footer {
+	width: 100%;
+	margin-top: 0px;
+	height: 30px;
+	font-size: 12px;
+	background-color: white;
+	text-align: center;
+	border-top: 1px solid black;
+	padding-top: 5px;
+}
+
+.graph {
+	width: 1200px;
+	height: 550px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.logo_link {
+	font-size: 20px;
+	line-height: 20px;
+}
+
+.tip {
+	color: black;
+	padding: 2px;
+	font-size: 12px;
+	background-color: green;
+	opacity: 0.8;
+	border-radius: 5px;
+	z-index: 0;
+}
+
+.title {
+	text-align: center;
+	height: 30px;
+	margin-bottom: 20px;
+}
